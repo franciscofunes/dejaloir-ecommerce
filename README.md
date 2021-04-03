@@ -9,18 +9,18 @@ I developed a fully functional eCommerce application using commerce.js. Followin
 - [X] Navbar
 - [X] Commerce Products
 - [X] Add to Cart
-​- [X] Cart Layout
+- [X] Cart Layout
 - [X] React Router
 - [X] Cart Buttons
 - [X] Checkout
 - [X] Address Form
 - [X] Fetch Countries
-​- [X] Fetch Subdivisions
-​- [X] Review
-​- [X] Payment Form & Stripe
-​- [X] Integration
-​- [X] Mobile Responsiveness
-​- [X] Bug Fixes
+- [X] Fetch Subdivisions
+- [X] Review
+- [X] Payment Form & Stripe
+- [X] Integration
+- [X] Mobile Responsiveness
+- [X] Bug Fixes
 - [X] No Credit Card Fix
 - [X] Deployment
 
