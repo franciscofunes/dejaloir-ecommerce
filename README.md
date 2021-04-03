@@ -1,4 +1,4 @@
-# Dejalo Ir Ecommerce Prototype
+# Dejalo Ir - Ecommerce Prototype
 
 I developed a fully functional eCommerce application using commerce.js. Following  this JavaScript Mastery tutorial:
 [ECommerce Web Shop](https://www.youtube.com/watch?v=377AQ0y6LPA)
